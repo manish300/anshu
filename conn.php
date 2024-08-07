@@ -2,7 +2,7 @@
 $host="localhost";
 $user="root";
 $pass="";
-$dbname="student1";
+$dbname="student2";
 $conn=mysqli_connect($host,$user,$pass,$dbname);
 if($conn)
 	echo "Connection Successful";
